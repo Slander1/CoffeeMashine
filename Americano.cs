@@ -5,6 +5,7 @@ public class Americano : Coffee
         tasteAmericano = taste;
         cookingSpeedAmericano = cookingSpeed;
     }
+    
     public double tasteAmericano;
     public double cookingSpeedAmericano;
 }
